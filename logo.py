@@ -1,4 +1,3 @@
-
 import pygame
 
 def create_game_logo(scale=1):
